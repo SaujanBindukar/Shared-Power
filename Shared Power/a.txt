@@ -1,0 +1,7 @@
+WeldingMachine 9841385001 Ayush 2 5 2018-01-23
+WeldingMachine 9861538423 Sujan 4 5 2018-01-23
+ElectricMotor 9861538434 Roshan 3 5 2018-01-23
+Driller 9860846289 Rijam 4 6 2018-01-23
+Generator 9841385009 Aryan 6 7 2018-01-23
+Generator 9865432110 Amrit 10 15 2018-01-23
+Driller 9841666666 Saujan 50 100 2018-01-24

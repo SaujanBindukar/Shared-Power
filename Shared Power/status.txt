@@ -1,0 +1,8 @@
+WeldingMachine 9861538423 Sujan 8 4 2018-01-23 rojan@gmail.com 2018-01-24
+WeldingMachine 9861538423 Sujan 8 4 2018-01-23 a@gmail.com 2018-01-24
+WeldingMachine 9861538423 Sujan 4 5 2018-01-23 rojan@gmail.com 2018-01-24
+WeldingMachine 9841385001 Ayush 2 5 2018-01-23 a@gmail.com 2018-01-24
+Generator 9865432110 Amrit 10 15 2018-01-23 a@gmail.com 2018-01-24
+Generator 9865432110 Amrit 10 15 2018-01-23 a@gmail.com 2018-01-24
+Generator 9841385009 Aryan 6 7 2018-01-23 sauzanbindukar@gmail.com 2018-09-30
+Generator 9865432110 Amrit 10 15 2018-01-23 abc@gmail.com 2018-11-29
